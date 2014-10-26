@@ -1,5 +1,5 @@
 module.exports = {
-	applicationPort 			: 8081,
+	applicationPort 			: 80,
 	database 					: 
 	{
 		host					: 'localhost',
